@@ -2,7 +2,7 @@
 
 [Download the latest Windows installer](https://github.com/Scroatal/dotalauncher-releases/releases/latest)
 
-Run the Setup EXE, then open **Join a game**, save your host's address or Steam link and choose **Join game**. You need Steam, Dota 2 and the same Workshop addon as your host.
+Run the Setup EXE, then open **Join a friend**, paste your host's address or Steam link and choose **Join game**. You need Steam, Dota 2 and the same Workshop addon as your host.
 
 Moving from the portable ZIP? Close the old launcher and run this installer once. Your saved servers and host settings carry over. Use the installed shortcut afterwards.
 
